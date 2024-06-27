@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Otus.Teaching.PromoCodeFactory.Core/1.0.0": {
+        "runtime": {
+          "Otus.Teaching.PromoCodeFactory.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Otus.Teaching.PromoCodeFactory.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

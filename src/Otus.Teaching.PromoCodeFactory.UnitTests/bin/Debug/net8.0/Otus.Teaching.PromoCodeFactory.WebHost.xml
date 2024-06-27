@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Otus.Teaching.PromoCodeFactory.WebHost</name>
+    </assembly>
+    <members>
+        <member name="T:Otus.Teaching.PromoCodeFactory.WebHost.Controllers.CustomersController">
+            <summary>
+            Клиенты
+            </summary>
+        </member>
+        <member name="T:Otus.Teaching.PromoCodeFactory.WebHost.Controllers.EmployeesController">
+            <summary>
+            Сотрудники
+            </summary>
+        </member>
+        <member name="M:Otus.Teaching.PromoCodeFactory.WebHost.Controllers.EmployeesController.GetEmployeesAsync">
+            <summary>
+            Получить данные всех сотрудников
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Otus.Teaching.PromoCodeFactory.WebHost.Controllers.EmployeesController.GetEmployeeByIdAsync(System.Guid)">
+            <summary>
+            Получить данные сотрудника по id
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Otus.Teaching.PromoCodeFactory.WebHost.Controllers.PartnersController">
+            <summary>
+            Партнеры
+            </summary>
+        </member>
+        <member name="T:Otus.Teaching.PromoCodeFactory.WebHost.Controllers.PreferencesController">
+            <summary>
+            Предпочтения клиентов
+            </summary>
+        </member>
+        <member name="T:Otus.Teaching.PromoCodeFactory.WebHost.Controllers.PromocodesController">
+            <summary>
+            Промокоды
+            </summary>
+        </member>
+        <member name="M:Otus.Teaching.PromoCodeFactory.WebHost.Controllers.PromocodesController.GetPromocodesAsync">
+            <summary>
+            Получить все промокоды
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Otus.Teaching.PromoCodeFactory.WebHost.Controllers.PromocodesController.GivePromoCodesToCustomersWithPreferenceAsync(Otus.Teaching.PromoCodeFactory.WebHost.Models.GivePromoCodeRequest)">
+            <summary>
+            Создать промокод и выдать его клиентам с указанным предпочтением
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Otus.Teaching.PromoCodeFactory.WebHost.Controllers.RolesController">
+            <summary>
+            Роли сотрудников
+            </summary>
+        </member>
+        <member name="M:Otus.Teaching.PromoCodeFactory.WebHost.Controllers.RolesController.GetRolesAsync">
+            <summary>
+            Получить все доступные роли сотрудников
+            </summary>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

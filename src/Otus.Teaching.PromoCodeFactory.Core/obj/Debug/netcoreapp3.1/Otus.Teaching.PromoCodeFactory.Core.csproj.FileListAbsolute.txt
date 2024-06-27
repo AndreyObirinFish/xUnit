@@ -1,0 +1,10 @@
+D:\Lessons\ASP Net\Lesson 4\otus.teaching.promocodefactory.homework.unittests\src\Otus.Teaching.PromoCodeFactory.Core\bin\Debug\netcoreapp3.1\Otus.Teaching.PromoCodeFactory.Core.deps.json
+D:\Lessons\ASP Net\Lesson 4\otus.teaching.promocodefactory.homework.unittests\src\Otus.Teaching.PromoCodeFactory.Core\bin\Debug\netcoreapp3.1\Otus.Teaching.PromoCodeFactory.Core.dll
+D:\Lessons\ASP Net\Lesson 4\otus.teaching.promocodefactory.homework.unittests\src\Otus.Teaching.PromoCodeFactory.Core\bin\Debug\netcoreapp3.1\Otus.Teaching.PromoCodeFactory.Core.pdb
+D:\Lessons\ASP Net\Lesson 4\otus.teaching.promocodefactory.homework.unittests\src\Otus.Teaching.PromoCodeFactory.Core\obj\Debug\netcoreapp3.1\Otus.Teaching.PromoCodeFactory.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lessons\ASP Net\Lesson 4\otus.teaching.promocodefactory.homework.unittests\src\Otus.Teaching.PromoCodeFactory.Core\obj\Debug\netcoreapp3.1\Otus.Teaching.PromoCodeFactory.Core.AssemblyInfoInputs.cache
+D:\Lessons\ASP Net\Lesson 4\otus.teaching.promocodefactory.homework.unittests\src\Otus.Teaching.PromoCodeFactory.Core\obj\Debug\netcoreapp3.1\Otus.Teaching.PromoCodeFactory.Core.AssemblyInfo.cs
+D:\Lessons\ASP Net\Lesson 4\otus.teaching.promocodefactory.homework.unittests\src\Otus.Teaching.PromoCodeFactory.Core\obj\Debug\netcoreapp3.1\Otus.Teaching.PromoCodeFactory.Core.csproj.CoreCompileInputs.cache
+D:\Lessons\ASP Net\Lesson 4\otus.teaching.promocodefactory.homework.unittests\src\Otus.Teaching.PromoCodeFactory.Core\obj\Debug\netcoreapp3.1\Otus.Teaching.PromoCodeFactory.Core.sourcelink.json
+D:\Lessons\ASP Net\Lesson 4\otus.teaching.promocodefactory.homework.unittests\src\Otus.Teaching.PromoCodeFactory.Core\obj\Debug\netcoreapp3.1\Otus.Teaching.PromoCodeFactory.Core.dll
+D:\Lessons\ASP Net\Lesson 4\otus.teaching.promocodefactory.homework.unittests\src\Otus.Teaching.PromoCodeFactory.Core\obj\Debug\netcoreapp3.1\Otus.Teaching.PromoCodeFactory.Core.pdb

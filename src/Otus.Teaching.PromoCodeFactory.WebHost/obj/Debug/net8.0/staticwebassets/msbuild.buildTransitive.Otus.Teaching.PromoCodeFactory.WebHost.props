@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Otus.Teaching.PromoCodeFactory.WebHost.props" />
+</Project>

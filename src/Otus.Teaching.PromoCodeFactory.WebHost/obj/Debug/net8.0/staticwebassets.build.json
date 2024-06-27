@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2QCzC1TY95dxQYLA9/OaF4kGNBu0TM6RQ+Y8WhGf0UI=",
+  "Source": "Otus.Teaching.PromoCodeFactory.WebHost",
+  "BasePath": "_content/Otus.Teaching.PromoCodeFactory.WebHost",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
